@@ -1,8 +1,8 @@
 # Search in YouTube Videos And in IMDBMovies
-Testing readme with images
+<h2>Testing readme with images</h2>
 
-this is demo screen for movie search by title in IMDB database
+<p>this is demo screen for movie search by title in IMDB database</p>
 ![Alt text](/../demo/screenshots/screen1.png?raw=true "IMDB screen")
 
-this is demo screen for clip search by title in youtube database
+<p>this is demo screen for clip search by title in youtube database</p>
 ![Alt text](/../demo/screenshots/screen2.png?raw=true "Youtube screen") 
