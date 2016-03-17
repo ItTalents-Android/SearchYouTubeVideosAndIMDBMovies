@@ -8,4 +8,4 @@
 ![Alt text](/../demo/screenshots/screen2.png?raw=true "Youtube screen") 
 
 <p>This is demo screen for search results in youtube activity</p>
-![Alt text](/../demo/screenshots/screen2.png?raw=true "Youtube screen") 
+![Alt text](/../demo/screenshots/screen3.png?raw=true "Youtube screen") 
